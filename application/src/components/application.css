@@ -1,0 +1,10 @@
+.demo-header {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.demo-block {
+    border: 1px dashed red;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+}

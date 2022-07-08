@@ -1,0 +1,1 @@
+{"version":3,"file":"component.bundle.js","sources":["../src/component.js"],"sourcesContent":["export const AsyncComponent =\n{\n\t// language=Vue\n\ttemplate: `\n\t\t{{$Bitrix.Loc.getMessage('DEMO_ASYNC_TITLE')}}\n\t`\n};"],"names":["AsyncComponent","template"],"mappings":";;;;KAAaA,cAAc,GAC3B;;GAECC,QAAQ;CAFT,CADO;;;;;;;;"}
